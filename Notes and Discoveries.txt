@@ -1,0 +1,11 @@
+## 4/23 Discussion with Professor
+
+Need to answer these questions before coming up with Specifications and Reqs, scope
+
+How often does the site we're using update?
+What do they need (reqs for test) in order to get tested?
+Do they work for specific doctors, etc.
+Inlcude limitation info in app based on how often app is updated
+Capacity, doctor prescription, etc.
+
+Keep scope narrow, something that can be done in a few weeks.
